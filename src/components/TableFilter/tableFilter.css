@@ -1,0 +1,32 @@
+
+.ress-admin-table-filter {
+
+  justify-content: space-between;
+  padding:20px;
+  background-color: #15b699;
+}
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.title {
+  margin: 0;
+}
+.inputs {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+
+}
+.rozsirene-vyhladavanie{
+  margin-bottom: 30px;
+}
+.filter-button {
+  margin-bottom: 5px;
+}

@@ -1,5 +1,12 @@
 .home-container {
-    height: 100%;
-    background-color: beige;
-    margin: 0 auto;
+    background-color: #1cfcaf;
+    padding-bottom: 2rem;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.home-content {
+    margin: 0 2rem 0 2rem;
+    background-color: #c1fce5;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
 }

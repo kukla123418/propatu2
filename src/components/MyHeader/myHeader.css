@@ -1,4 +1,9 @@
 .my-header {
-    background-color: burlywood;
+    background-color: #00a16a;
+    padding: 1rem 2rem 1rem 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 

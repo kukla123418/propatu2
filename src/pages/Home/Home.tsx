@@ -6,7 +6,9 @@ export const Home = () => {
 return (
     <div className={'home-container'}>
       <MyHeader />
-      <PokemonList />
+      <div className={'home-content'}>
+        <PokemonList />
+      </div>
     </div>
 )
 

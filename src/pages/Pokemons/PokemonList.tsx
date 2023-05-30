@@ -12,6 +12,7 @@ export const PokemonList = () => {
       <Pokemon name={'Pikaču'} type={PokemonTypes.ohnivy}/>
       <Pokemon name={'Squirtle'} type={PokemonTypes.vodny}/>
       <Pokemon name={'Psyduck'} type={PokemonTypes.psycho} />
+      <Pokemon name={'Charizard'} type={PokemonTypes.ohnivy} />
     </div>
   )
 }
